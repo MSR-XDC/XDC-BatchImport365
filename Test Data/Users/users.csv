@@ -1,0 +1,17 @@
+﻿Logon / E-mail;Fornavn;Efternavn;Fulde navn;GRUPPE: ADGANG_ADMINISTRATION;GRUPPE: ADGANG_ALLE;GRUPPE: ADGANG_DIREKTION;GRUPPE: ADGANG_HR;GRUPPE: ADGANG_LAGER;GRUPPE: ADGANG_SALG;GRUPPE: ADGANG_VÆRKSTED;GRUPPE: OFFICE_PAKKE;Alternate email address(,);Address;City;State or province;ZIP or postal code;Country or region;Company
+msr-testbruger-1;Bent;Bentsen;Bent Bentsen;Ja;Ja;Ja;Ja;Ja;Ja;Ja;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-2;Jørgen;Jørgensen;Jørgen Jørgensen;Ja;Ja;Ja;Ja;Ja;Ja;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-3;Kurt;Kurtsen;Kurt Kurtsen;Ja;Ja;Ja;Ja;Ja;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-4;Niels;Nielssen;Niels Nielssen;Ja;Ja;Ja;Ja;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-5;Hans;Hanssen;Hans Hanssen;Ja;Ja;Ja;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-6;Dan;Dansen;Dan Dansen;Ja;Ja;Nej;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-7;Lars;Larssen;Lars Larssen;Ja;Nej;Nej;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-8;Keld;Keldsen;Keld Keldsen;Ja;Nej;Nej;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-9;Bob;Bobsen;Bob Bobsen;Nej;Ja;Nej;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-10;Birger;Birgersen;Birger Birgersen;Nej;Nej;Ja;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-11;Ib;Ibsen;Ib Ibsen;Nej;Nej;Nej;Ja;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-12;Rasmus;Rasmussen;Rasmus Rasmussen;Nej;Nej;Nej;Nej;Ja;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-13;Leif;Leifsen;Leif Leifsen;Nej;Nej;Nej;Nej;Nej;Ja;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-14;Ragnar;Ragnarsen;Ragnar Ragnarsen;Nej;Nej;Nej;Nej;Nej;Nej;Ja;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-15;Ricard;Ricardsen;Ricard Ricardsen;Nej;Nej;Nej;Nej;Nej;Nej;Nej;Ja;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
+msr-testbruger-16;Peter;Petersen;Peter Petersen;Nej;Nej;Nej;Nej;Nej;Nej;Nej;Nej;;Tigervej 27;Køge;Region Sjælland;4600;Denmark;MSR-TestCompany
